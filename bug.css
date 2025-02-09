@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected behavior if not carefully considered.  For instance, inline styles have higher precedence than internal and external stylesheets. This can inadvertently override styles you've set globally, making debugging difficult if you're not aware of the order of precedence.
