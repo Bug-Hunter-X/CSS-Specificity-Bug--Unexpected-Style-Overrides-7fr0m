@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug related to specificity.  Inline styles unintentionally override expected styles due to their higher precedence. The `bug.css` file contains the problematic code, while `bugSolution.css` provides a solution.
